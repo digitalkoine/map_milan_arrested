@@ -1,0 +1,69 @@
+quantity,start_date,end_date,prison_place,prison_place_lat,prison_place_lng,prison_place_link,labelConvoyDeparturePlace
+1,10/13/1943,4/10/1944,Ascoli Piceno,42.84191317,13.64473125,http://dati.cdec.it/lod/shoah/prison/ASCOLI_PICENO,ASCOLI PICENO
+3,10/15/1943,4/12/1944,Baveno,45.92394444,8.549839909,http://dati.cdec.it/lod/shoah/prison/BAVENO,BAVENO
+1,3/1/1944,8/28/1944,Bormio,46.46681872,10.37213603,http://dati.cdec.it/lod/shoah/prison/BORMIO,FOSSOLI campo
+1,10/14/1943,4/11/1944,Campo di Bolzano,46.48647835,11.31793055,http://dati.cdec.it/lod/shoah/prison/BOLZANO_campo,Campo di Bolzano
+1,12/4/1944,4/25/1945,Campo di Caprino,45.74554377,9.483645267,http://dati.cdec.it/lod/shoah/prison/CAPRINO_campo,FOSSOLI campo
+2,2/2/1944,11/7/1944,Campo di Fossoli,44.82881388,10.90204478,http://dati.cdec.it/lod/shoah/prison/FOSSOLI_campo,FOSSOLI campo
+1,11/8/1944,4/25/1945,Campo di Fossoli,44.82881388,10.90204478,http://dati.cdec.it/lod/shoah/prison/FOSSOLI_campo,FOSSOLI campo
+1,3/1/1944,8/28/1944,Campo di Reggio Emilia,44.35480304,10.32049697,http://dati.cdec.it/lod/shoah/prison/REGGIO_EMILIA_campo,FOSSOLI campo
+1,1/6/1944,2/19/1944,Campo di Risiera San Sabba,45.62099312,13.78923921,http://dati.cdec.it/lod/shoah/prison/S.SABBA_campo,TRIESTE  Risiera San Sabba campo
+1,2/20/1944,8/18/1944,Campo di Risiera San Sabba,45.62099312,13.78923921,http://dati.cdec.it/lod/shoah/prison/S.SABBA_campo,TRIESTE  Risiera San Sabba campo
+3,12/30/1943,6/27/1944,Campo di Servigliano,43.07790372,13.4897203,http://dati.cdec.it/lod/shoah/prison/SERVIGLIANO_campo,FOSSOLI campo
+1,3/15/1944,9/11/1944,Campo di Vallecrosia,43.7863292,7.64258916,http://dati.cdec.it/lod/shoah/prison/VALLECROSIA_campo,FOSSOLI campo
+1,1/1/1944,1/2/1944,Carcere di Bergamo,45.69541014,9.706391056,http://dati.cdec.it/lod/shoah/prison/BERGAMO_carcere,FOSSOLI campo
+2,1/3/1944,3/28/1944,Carcere di Bergamo,45.69541014,9.706391056,http://dati.cdec.it/lod/shoah/prison/BERGAMO_carcere,FOSSOLI campo
+1,3/29/1944,6/29/1944,Carcere di Bergamo,45.69541014,9.706391056,http://dati.cdec.it/lod/shoah/prison/BERGAMO_carcere,FOSSOLI campo
+1,6/30/1944,12/27/1944,Carcere di Bergamo,45.69541014,9.706391056,http://dati.cdec.it/lod/shoah/prison/BERGAMO_carcere,BOLZANO campo
+1,3/3/1945,4/25/1945,Carcere di Cannobbio (Milano),45.46117132,9.189979784,http://dati.cdec.it/lod/shoah/prison/CANNOBBIOMILANO_carcere,Carcere di Cannobbio (Milano)
+1,3/16/1944,9/12/1944,Carcere di Casalmonferrato,45.13588778,8.45234265,http://dati.cdec.it/lod/shoah/prison/CASALEMONFERRATO_carcere,FOSSOLI campo
+1,11/25/1943,12/25/1943,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,MILANO carcere
+3,12/26/1943,2/29/1944,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,MILANO carcere
+5,3/1/1944,3/16/1944,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,FOSSOLI campo
+3,3/17/1944,6/21/1944,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,FOSSOLI campo
+1,6/22/1944,10/5/1944,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,FOSSOLI campo
+1,10/6/1944,11/30/1944,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,FOSSOLI campo
+1,12/1/1944,4/25/1945,Carcere di Como,45.77034445,9.081949042,http://dati.cdec.it/lod/shoah/prison/COMO_carcere,FOSSOLI campo
+1,12/24/1943,6/21/1944,Carcere di Firenze,43.76948855,11.26796485,http://dati.cdec.it/lod/shoah/prison/FIRENZE_carcere,VERONA
+1,1/2/1943,12/18/1943,Carcere di Genova,44.41839426,8.950953833,http://dati.cdec.it/lod/shoah/prison/GENOVA_carcere,FOSSOLI campo
+3,12/19/1943,12/10/1944,Carcere di Genova,44.41839426,8.950953833,http://dati.cdec.it/lod/shoah/prison/GENOVA_carcere,FOSSOLI campo
+2,12/11/1944,4/25/1945,Carcere di Genova,44.41839426,8.950953833,http://dati.cdec.it/lod/shoah/prison/GENOVA_carcere,BOLZANO campo
+1,7/3/1944,12/30/1944,Carcere di Ivrea,45.47114282,7.914158531,http://dati.cdec.it/lod/shoah/prison/IVREA_carcere,FOSSOLI campo
+1,1/12/1943,7/11/1943,Carcere di Lucca,43.84539149,10.4996893,http://dati.cdec.it/lod/shoah/prison/LUCCA_carcere,MILANO carcere
+2,1/21/1944,3/18/1944,Carcere di Macerata,43.29423097,13.45133609,http://dati.cdec.it/lod/shoah/prison/MACERATA_carcere,FOSSOLI campo
+1,3/19/1944,9/15/1944,Carcere di Macerata,43.29423097,13.45133609,http://dati.cdec.it/lod/shoah/prison/MACERATA_carcere,FOSSOLI campo
+3,1/2/1943,5/10/1943,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,MILANO carcere
+2,5/11/1943,8/11/1943,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+6,8/12/1943,10/29/1943,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+1,10/30/1943,11/25/1943,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,MILANO carcere
+7,11/26/1943,1/5/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+11,1/6/1944,2/1/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+4,2/2/1944,2/11/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+3,2/12/1944,3/17/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,BOLZANO campo
+5,3/18/1944,4/8/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+7,4/9/1944,5/4/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+3,5/5/1944,6/30/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+9,7/1/1944,7/6/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,MILANO carcere
+4,7/7/1944,11/7/1944,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,FOSSOLI campo
+1,11/8/1944,2/2/1945,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,MILANO carcere
+2,2/3/1945,4/25/1945,Carcere di Milano,45.461689,9.164874688,http://dati.cdec.it/lod/shoah/prison/MILANO_carcere,Carcere di Milano
+1,5/8/1944,11/4/1944,Carcere di Pavia,45.20751531,9.177635798,http://dati.cdec.it/lod/shoah/prison/PAVIA_carcere,BOLZANO campo
+4,1/5/1944,7/3/1944,Carcere di Pisa,43.71898722,10.4140529,http://dati.cdec.it/lod/shoah/prison/PISA_carcere,FOSSOLI campo
+1,6/30/1944,12/27/1944,Carcere di Rovigo,45.08516888,11.812934,http://dati.cdec.it/lod/shoah/prison/ROVIGO_carcere,FOSSOLI campo
+4,7/23/1944,1/19/1945,Carcere di Rovigo,45.08516888,11.812934,http://dati.cdec.it/lod/shoah/prison/ROVIGO_carcere,FOSSOLI campo
+3,1/30/1944,7/28/1944,Carcere di Sondrio,46.1678186,9.868893698,http://dati.cdec.it/lod/shoah/prison/SONDRIO_carcere,MILANO carcere
+3,1/4/1944,1/4/1944,Carcere di Torino,45.06903837,7.659281939,http://dati.cdec.it/lod/shoah/prison/TORINO_carcere,FOSSOLI campo
+1,1/5/1944,6/26/1944,Carcere di Torino,45.06903837,7.659281939,http://dati.cdec.it/lod/shoah/prison/TORINO_carcere,FOSSOLI campo
+1,6/27/1944,12/24/1944,Carcere di Torino,45.06903837,7.659281939,http://dati.cdec.it/lod/shoah/prison/TORINO,MILANO carcere
+9,1/12/1943,1/31/1944,Carcere di Varese,45.82227044,8.821940231,http://dati.cdec.it/lod/shoah/prison/VARESE_carcere,FOSSOLI campo
+4,2/1/1944,2/27/1944,Carcere di Varese,45.82227044,8.821940231,http://dati.cdec.it/lod/shoah/prison/VARESE_carcere,MILANO carcere
+2,2/28/1944,10/2/1944,Carcere di Varese,45.82227044,8.821940231,http://dati.cdec.it/lod/shoah/prison/VARESE_carcere,MILANO carcere
+1,10/3/1944,12/5/1944,Carcere di Varese,45.82227044,8.821940231,http://dati.cdec.it/lod/shoah/prison/VARESE_carcere,FOSSOLI campo
+2,12/6/1944,4/25/1945,Carcere di Varese,45.82227044,8.821940231,http://dati.cdec.it/lod/shoah/prison/VARESE_carcere,FOSSOLI campo
+1,11/30/1944,4/25/1945,Carcere di Venezia,45.43569903,12.31661263,http://dati.cdec.it/lod/shoah/prison/VENEZIA_carcere,TRIESTE  Risiera San Sabba campo
+3,10/15/1943,4/12/1944,Caserma di Arona,45.75211708,8.563266754,http://dati.cdec.it/lod/shoah/prison/ARONA_caserma,NOVARA carcere
+3,11/16/1943,5/14/1944,Collegio militare di Roma,41.92258835,12.46898653,http://dati.cdec.it/lod/shoah/prison/ROMA_Collegio_Militare,ROMA Collegio Militare
+1,8/7/1944,2/3/1945,Luino,46.00114082,8.746221365,http://dati.cdec.it/lod/shoah/prison/LUINO,MILANO carcere
+1,10/15/1943,4/12/1944,Meina,45.79267109,8.539625855,http://dati.cdec.it/lod/shoah/prison/MEINA,MEINA
+1,8/4/1944,1/31/1945,Modena,44.67044207,10.9190172,http://dati.cdec.it/lod/shoah/prison/MODENA,FOSSOLI campo
+1,1/15/1944,7/13/1944,Tirano,46.21426854,10.16327214,http://dati.cdec.it/lod/shoah/prison/TIRANO,MILANO carcere
