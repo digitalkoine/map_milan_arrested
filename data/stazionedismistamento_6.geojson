@@ -1,0 +1,81 @@
+intermediateStop={
+  "type": "FeatureCollection",
+  "name": "stazionedismistamento_6",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 57,
+        "cambio_verona_14-15-16-17": "Stazione di Verona",
+        "cambio_verona_14-15-16-17_color": "white",
+        "cambio_verona_14-15-16-17_icon": "icon",
+        "cambio_verona_lat": 45.42911053,
+        "cambio_verona_lng": 10.98247644,
+        "cambio_date": "02/08/1943",
+        "start_date": "06/10/1943",
+        "end_date": "06/12/1943",
+        "cambiodate_label": "mercoled\u00ec 02 agosto 1943",
+        "cambiodateend_label": "luned\u00ec 06 dicembre 1943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98247644,
+          45.42911053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 31,
+        "cambio_verona_14-15-16-17": "Stazione di Verona",
+        "cambio_verona_14-15-16-17_color": "white",
+        "cambio_verona_14-15-16-17_icon": "icon",
+        "cambio_verona_lat": 45.42911053,
+        "cambio_verona_lng": 10.98247644,
+        "cambio_date": "06/12/1943",
+        "start_date": "06/12/1943",
+        "end_date": "30/01/1944",
+        "cambiodate_label": "luned\u00ec 06 dicembre 1943",
+        "cambiodateend_label": "domenica 30 gennaio 1944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98247644,
+          45.42911053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 42,
+        "cambio_verona_14-15-16-17": "Stazione di Verona",
+        "cambio_verona_14-15-16-17_color": "white",
+        "cambio_verona_14-15-16-17_icon": "icon",
+        "cambio_verona_lat": 45.42911053,
+        "cambio_verona_lng": 10.98247644,
+        "cambio_date": "30/01/1944",
+        "start_date": "30/01/1944",
+        "end_date": "28/02/1944",
+        "cambiodate_label": "domenica 30 gennaio 1944",
+        "cambiodateend_label": "luned\u00ec 28 febbraio 1944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98247644,
+          45.42911053
+        ]
+      }
+    }
+  ]
+}

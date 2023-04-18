@@ -1,0 +1,431 @@
+prison_camps =
+{
+  "type": "FeatureCollection",
+  "name": "prigioni_4",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 8.0,
+        "arrestDate": "05/10/1943",
+        "start_date": "05/10/1943",
+        "end_date": "01/11/1943",
+        "arrestDate_label": "marted\u00ec 05 ottobre 1943",
+        "arrestDateEnd_label": "luned\u00ec 01 novembre 1943",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 23.0,
+        "arrestDate": "01/11/1943",
+        "start_date": "01/11/1943",
+        "end_date": "11/11/1943",
+        "arrestDate_label": "luned\u00ec 01 novembre 1943",
+        "arrestDateEnd_label": "gioved\u00ec 11 novembre 1943",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 15.0,
+        "arrestDate": "11/11/1943",
+        "start_date": "11/11/1943",
+        "end_date": "01/12/1943",
+        "arrestDate_label": "gioved\u00ec 11 novembre 1943",
+        "arrestDateEnd_label": "mercoled\u00ec 01 dicembre 1943",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 25.0,
+        "arrestDate": "01/12/1943",
+        "start_date": "01/12/1943",
+        "end_date": "20/12/1943",
+        "arrestDate_label": "mercoled\u00ec 01 dicembre 1943",
+        "arrestDateEnd_label": "luned\u00ec 20 dicembre 1943",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 17.0,
+        "arrestDate": "20/12/1943",
+        "start_date": "20/12/1943",
+        "end_date": "08/01/1944",
+        "arrestDate_label": "luned\u00ec 20 dicembre 1943",
+        "arrestDateEnd_label": "sabato 08 gennaio 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 7.0,
+        "arrestDate": "08/01/1944",
+        "start_date": "08/01/1944",
+        "end_date": "10/02/1944",
+        "arrestDate_label": "sabato 08 gennaio 1944",
+        "arrestDateEnd_label": "gioved\u00ec 10 febbraio 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 9.0,
+        "arrestDate": "10/02/1944",
+        "start_date": "10/02/1944",
+        "end_date": "01/03/1944",
+        "arrestDate_label": "gioved\u00ec 10 febbraio 1944",
+        "arrestDateEnd_label": "mercoled\u00ec 01 marzo 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 18.0,
+        "arrestDate": "01/03/1944",
+        "start_date": "01/03/1944",
+        "end_date": "01/04/1944",
+        "arrestDate_label": "mercoled\u00ec 01 marzo 1944",
+        "arrestDateEnd_label": "sabato 01 aprile 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 23.0,
+        "arrestDate": "01/04/1944",
+        "start_date": "01/04/1944",
+        "end_date": "01/05/1944",
+        "arrestDate_label": "sabato 01 aprile 1944",
+        "arrestDateEnd_label": "luned\u00ec 01 maggio 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 33.0,
+        "arrestDate": "01/05/1944",
+        "start_date": "01/05/1944",
+        "end_date": "24/05/1944",
+        "arrestDate_label": "luned\u00ec 01 maggio 1944",
+        "arrestDateEnd_label": "mercoled\u00ec 24 maggio 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 9.0,
+        "arrestDate": "24/05/1944",
+        "start_date": "24/05/1944",
+        "end_date": "01/06/1944",
+        "arrestDate_label": "mercoled\u00ec 24 maggio 1944",
+        "arrestDateEnd_label": "gioved\u00ec 01 giugno 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 24.0,
+        "arrestDate": "01/06/1944",
+        "start_date": "01/06/1944",
+        "end_date": "01/07/1944",
+        "arrestDate_label": "gioved\u00ec 01 giugno 1944",
+        "arrestDateEnd_label": "sabato 01 luglio 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 14.0,
+        "arrestDate": "01/07/1944",
+        "start_date": "01/07/1944",
+        "end_date": "04/08/1944",
+        "arrestDate_label": "sabato 01 luglio 1944",
+        "arrestDateEnd_label": "venerd\u00ec 04 agosto 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 15.0,
+        "arrestDate": "04/08/1944",
+        "start_date": "04/08/1944",
+        "end_date": "14/09/1944",
+        "arrestDate_label": "venerd\u00ec 04 agosto 1944",
+        "arrestDateEnd_label": "gioved\u00ec 14 settembre 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 4.0,
+        "arrestDate": "14/09/1944",
+        "start_date": "14/09/1944",
+        "end_date": "28/10/1944",
+        "arrestDate_label": "gioved\u00ec 14 settembre 1944",
+        "arrestDateEnd_label": "sabato 28 ottobre 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 2.0,
+        "arrestDate": "28/10/1944",
+        "start_date": "28/10/1944",
+        "end_date": "01/11/1944",
+        "arrestDate_label": "sabato 28 ottobre 1944",
+        "arrestDateEnd_label": "mercoled\u00ec 01 novembre 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 10.0,
+        "arrestDate": "01/11/1944",
+        "start_date": "01/11/1944",
+        "end_date": "01/12/1944",
+        "arrestDate_label": "mercoled\u00ec 01 novembre 1944",
+        "arrestDateEnd_label": "venerd\u00ec 01 dicembre 1944",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 2.0,
+        "arrestDate": "01/12/1944",
+        "start_date": "01/12/1944",
+        "end_date": "22/04/1945",
+        "arrestDate_label": "venerd\u00ec 01 dicembre 1944",
+        "arrestDateEnd_label": "domenica 22 aprile 1945",
+        "detentionPlace": "Carcere di Milano",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.46185,
+        "detentionPlace_lng": 9.16489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16489436,
+          45.46185087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantity": 2.0,
+        "arrestDate": "20/03/1944",
+        "start_date": "20/03/1944",
+        "end_date": "20/04/1944",
+        "arrestDate_label": "luned\u00ec 20 marzo 1944",
+        "arrestDateEnd_label": "gioved\u00ec 20 aprile 1944",
+        "detentionPlace": "Casa di riposo di Mantova",
+        "detentionPlace_color": "blue",
+        "detentionPlace_lat": 45.15493,
+        "detentionPlace_lng": 10.7952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7951969,
+          45.15493007
+        ]
+      }
+    }
+  ]
+}
