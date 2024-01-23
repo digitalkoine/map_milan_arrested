@@ -1400,7 +1400,7 @@ line={
         "labelbirthPlace_label": "Milano",
         "labelbirthPlace_lat": 45.46427,
         "labelbirthPlace_lng": 9.18951,
-        "indirizzo_residenza": "via Monte di Piet\u00c3\u00a0 1",
+        "indirizzo_residenza": "via Monte di Piet\u00a0 1",
         "IRI_arrestPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
         "labelarrestPlace": "Milano",
         "labelarrestPlace_lat": 45.46515571,
@@ -3601,7 +3601,7 @@ line={
       "properties": {
         "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7141",
-        "name": "Segr\u00c3\u00a9, Marianna Fanny Nella",
+        "name": "Segrè, Marianna Fanny Nella",
         "dateOfBirth": "1876-04-25",
         "dateOfBirth_label": "martedì 25 aprile 1876",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Livorno",
@@ -4981,7 +4981,7 @@ line={
       "properties": {
         "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2744",
-        "name": "Fo\u00c3\u00a0, Augusto",
+        "name": "Foà, Augusto",
         "dateOfBirth": "3/1/1908",
         "dateOfBirth_label": "domenica 1 marzo 1908",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
@@ -6453,7 +6453,7 @@ line={
       "properties": {
         "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8152",
-        "name": "Varon, Mois\u00c3\u00a9",
+        "name": "Varon, Moisè",
         "dateOfBirth": "1881-03-02",
         "dateOfBirth_label": "mercoledì 2 marzo 1881",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Gelibolu",
@@ -6545,7 +6545,7 @@ line={
       "properties": {
         "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8155",
-        "name": "Varon, Signur\u00c3\u00b9",
+        "name": "Varon, Signurù",
         "dateOfBirth": "1/24/1914",
         "dateOfBirth_label": "sabato 24 gennaio 1914",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Gelibolu",
@@ -10140,7 +10140,7 @@ line={
         "labelbirthPlace_label": "Vienna",
         "labelbirthPlace_lat": 48.20849,
         "labelbirthPlace_lng": 16.37208,
-        "indirizzo_residenza": "via E. No\u00c3\u00a8 5",
+        "indirizzo_residenza": "via E. No\u00a8 5",
         "IRI_arrestPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
         "labelarrestPlace": "via Catalani",
         "labelarrestPlace_lat": 45.48605412,
@@ -10593,7 +10593,7 @@ line={
       "properties": {
         "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5436",
-        "name": "Milul, Lina Fortun\u00c3\u00a9",
+        "name": "Milul, Lina Fortunè",
         "dateOfBirth": "1886-09-13",
         "dateOfBirth_label": "lunedì 13 settembre 1886",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Livorno",
@@ -15193,7 +15193,7 @@ line={
       "properties": {
         "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6401",
-        "name": "Rav\u00c3\u00a0, Alice",
+        "name": "Ravà, Alice",
         "dateOfBirth": "1890-01-13",
         "dateOfBirth_label": "lunedì 13 gennaio 1890",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Venezia",
@@ -18045,7 +18045,7 @@ line={
       "properties": {
         "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7464",
-        "name": "Sorias, Mois\u00c3\u00a9",
+        "name": "Sorias, Moisè",
         "dateOfBirth": "6/9/1909",
         "dateOfBirth_label": "mercoledì 9 giugno 1909",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Larnaca",
@@ -18321,7 +18321,7 @@ line={
       "properties": {
         "convoyNumber": "11",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2778",
-        "name": "Fo\u00c3\u00a0, Ugo Abramo Sansone",
+        "name": "Foà, Ugo Abramo Sansone",
         "dateOfBirth": "1886-02-28",
         "dateOfBirth_label": "domenica 28 febbraio 1886",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Lucca",
@@ -18965,7 +18965,7 @@ line={
       "properties": {
         "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2340",
-        "name": "Dana, Mos\u00c3\u00a9",
+        "name": "Dana, Mosè",
         "dateOfBirth": "2/5/1931",
         "dateOfBirth_label": "giovedì 5 febbraio 1931",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
@@ -19333,7 +19333,7 @@ line={
       "properties": {
         "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4252",
-        "name": "Jaff\u00c3\u00a9, Isaac Elia",
+        "name": "Jaffè, Isaac Elia",
         "dateOfBirth": "1896-10-18",
         "dateOfBirth_label": "domenica 18 ottobre 1896",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Canakkale",
@@ -20529,7 +20529,7 @@ line={
       "properties": {
         "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5663",
-        "name": "Menass\u00c3\u00a9, Rosa",
+        "name": "Menassè, Rosa",
         "dateOfBirth": "1889-05-13",
         "dateOfBirth_label": "lunedì 13 maggio 1889",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Istanbul",
@@ -21305,7 +21305,7 @@ line={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -21397,7 +21397,7 @@ line={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -21489,7 +21489,7 @@ line={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -23053,7 +23053,8 @@ line={
         "dateOfDeath": "2/1/1945",
         "times": [
           "13-12-1944",
-          "01-02-1945",
+          "14-12-1944",
+          "01-02-1945"
         ]
       },
       "geometry": {
@@ -23130,7 +23131,7 @@ line={
         "times": [
           "11-02-1944",
           "12-02-1944",
-          "12-02-1944"
+          "27-01-1945"
         ]
       },
       "geometry": {

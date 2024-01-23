@@ -11,7 +11,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1628",
         "name": "Corinaldi, Gino",
         "dateOfBirth": "02/08/1895",
@@ -108,7 +108,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4527",
         "name": "Levi, Fausto",
         "dateOfBirth": "1892-06-05",
@@ -205,7 +205,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/538",
         "name": "Araf, Matilde",
         "dateOfBirth": "5/9/1926",
@@ -302,7 +302,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/547",
         "name": "Arditti, Giuseppe",
         "dateOfBirth": "8/15/1901",
@@ -399,7 +399,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/548",
         "name": "Arditti, Masaltov",
         "dateOfBirth": "9/10/1932",
@@ -496,7 +496,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/498",
         "name": "Behar, Rachele",
         "dateOfBirth": "1899-01-16",
@@ -593,7 +593,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/497",
         "name": "Behar, Rachele Lea",
         "dateOfBirth": "4/14/1900",
@@ -690,7 +690,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3755",
         "name": "Hazan, Colette",
         "dateOfBirth": "5/3/1934",
@@ -787,7 +787,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3759",
         "name": "Hazan, Ginetta",
         "dateOfBirth": "9/9/1931",
@@ -884,7 +884,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3766",
         "name": "Hazan, Nissim",
         "dateOfBirth": "3/13/1905",
@@ -981,7 +981,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4748",
         "name": "Levi, Renato",
         "dateOfBirth": "1898-08-04",
@@ -1078,7 +1078,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5427",
         "name": "Milla, Amelia",
         "dateOfBirth": "4/27/1904",
@@ -1175,7 +1175,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5429",
         "name": "Milla, Laura",
         "dateOfBirth": "1897-08-03",
@@ -1272,7 +1272,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5430",
         "name": "Milla, Lina",
         "dateOfBirth": "7/10/1901",
@@ -1369,7 +1369,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7307",
         "name": "Sidi, Lisa",
         "dateOfBirth": "1898-12-31",
@@ -1466,7 +1466,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8044",
         "name": "Vitta Zelman, Ferruccio",
         "dateOfBirth": "1894-03-08",
@@ -1475,7 +1475,7 @@ line_birth={
         "labelbirthPlace_label": "Milano",
         "labelbirthPlace_lat": 45.46427,
         "labelbirthPlace_lng": 9.18951,
-        "indirizzo_residenza": "via Monte di Piet\u00c3\u0192\u00c2\u00a0 1",
+        "indirizzo_residenza": "via Monte di Piet\u00a0 1",
         "IRI_arrestPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
         "labelarrestPlace": "Milano",
         "labelarrestPlace_lat": 45.46515571,
@@ -1563,7 +1563,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8320",
         "name": "Zamorani, Ilda",
         "dateOfBirth": "1880-03-12",
@@ -1660,7 +1660,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/928",
         "name": "Borchert, Carlo",
         "dateOfBirth": "5/21/1905",
@@ -1757,7 +1757,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/950",
         "name": "Bruckner, Olga",
         "dateOfBirth": "1899-08-03",
@@ -1854,7 +1854,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1627",
         "name": "Corinaldi, Emilio",
         "dateOfBirth": "1898-12-26",
@@ -1951,7 +1951,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3545",
         "name": "Hirschl, Erich",
         "dateOfBirth": "3/21/1921",
@@ -2048,7 +2048,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4337",
         "name": "Leder, Eugenia",
         "dateOfBirth": "10/30/1911",
@@ -2145,7 +2145,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4729",
         "name": "Levi, Pacifico",
         "dateOfBirth": "1867-01-11",
@@ -2242,7 +2242,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5112",
         "name": "Markovski, Johanna",
         "dateOfBirth": "1894-02-14",
@@ -2339,7 +2339,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5722",
         "name": "Neppi, Gino Emanuele",
         "dateOfBirth": "1890-07-17",
@@ -2436,7 +2436,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5862",
         "name": "Ottolenghi, Salvatore",
         "dateOfBirth": "1880-11-18",
@@ -2533,7 +2533,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6066",
         "name": "Pecar, Davide",
         "dateOfBirth": "5/15/1935",
@@ -2630,7 +2630,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6067",
         "name": "Pecar, Leone Remo",
         "dateOfBirth": "4/30/1930",
@@ -2727,7 +2727,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6068",
         "name": "Pecar, Zina Mirella",
         "dateOfBirth": "5/8/1932",
@@ -2824,7 +2824,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7806",
         "name": "Teglio, Rita Sara",
         "dateOfBirth": "1880-08-01",
@@ -2921,7 +2921,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7992",
         "name": "Weiss, Johann",
         "dateOfBirth": "1898-06-20",
@@ -3018,7 +3018,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "5",
+        "convoyNumber": "5",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8137",
         "name": "Wolf, Henry",
         "dateOfBirth": "1894-03-29",
@@ -3115,7 +3115,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/461",
         "name": "Basevi, Adele",
         "dateOfBirth": "1866-08-07",
@@ -3212,7 +3212,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2478",
         "name": "Fano, Bice",
         "dateOfBirth": "1873-07-02",
@@ -3309,7 +3309,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2821",
         "name": "Forti, Marianna",
         "dateOfBirth": "1887-09-16",
@@ -3406,7 +3406,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2641",
         "name": "Friedrich, Andrea",
         "dateOfBirth": "1899-09-11",
@@ -3503,7 +3503,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4495",
         "name": "Levi, Emilio",
         "dateOfBirth": "8/18/1901",
@@ -3600,7 +3600,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4780",
         "name": "Levi, Ugo",
         "dateOfBirth": "11/23/1908",
@@ -3697,7 +3697,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5721",
         "name": "Nemes, Maria",
         "dateOfBirth": "1/16/1916",
@@ -3794,7 +3794,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7141",
         "name": "Segrè, Marianna Fanny Nella",
         "dateOfBirth": "1876-04-25",
@@ -3891,7 +3891,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7977",
         "name": "Vamos, Mira",
         "dateOfBirth": "1/7/1902",
@@ -3988,7 +3988,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/337",
         "name": "Azria, Luigi",
         "dateOfBirth": "1895-06-21",
@@ -4085,7 +4085,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6440",
         "name": "Reitzmann, Alexander",
         "dateOfBirth": "1888-10-06",
@@ -4182,7 +4182,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/11",
         "name": "Abolaffia, Rebecca",
         "dateOfBirth": "1891-07-10",
@@ -4279,7 +4279,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/234",
         "name": "Alhaique, Emilio",
         "dateOfBirth": "1/27/1905",
@@ -4376,7 +4376,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/621",
         "name": "Astrologo, Silvia",
         "dateOfBirth": "1883-02-15",
@@ -4473,7 +4473,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/918",
         "name": "Blonder, Sara",
         "dateOfBirth": "11/8/1914",
@@ -4570,7 +4570,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1213",
         "name": "Colombo, Elsa",
         "dateOfBirth": "7/25/1907",
@@ -4667,7 +4667,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1988",
         "name": "Deutsch, Nada",
         "dateOfBirth": "12/28/1924",
@@ -4764,7 +4764,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1989",
         "name": "Deutsch, Zeliko",
         "dateOfBirth": "10/6/1926",
@@ -4861,7 +4861,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2524",
         "name": "Feith, Maurizio",
         "dateOfBirth": "1893-09-06",
@@ -4958,7 +4958,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2554",
         "name": "Fiedler, Joseph",
         "dateOfBirth": "1890-10-21",
@@ -5055,7 +5055,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2597",
         "name": "Finzi Contini, Dora",
         "dateOfBirth": "1890-06-01",
@@ -5152,7 +5152,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2615",
         "name": "Fiorentino, Salvatore",
         "dateOfBirth": "4/29/1902",
@@ -5249,9 +5249,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2744",
-        "name": "Fo\u00c3\u0192\u00c2\u00a0, Augusto",
+        "name": "Foà, Augusto",
         "dateOfBirth": "3/1/1908",
         "dateOfBirth_label": "domenica 1 marzo 1908",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
@@ -5346,7 +5346,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2951",
         "name": "Gabbai, Salomone",
         "dateOfBirth": "1881-07-05",
@@ -5443,7 +5443,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3161",
         "name": "Goldberg, Elisabetta",
         "dateOfBirth": "1881-09-17",
@@ -5540,7 +5540,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3165",
         "name": "Goldfarb, Rosa",
         "dateOfBirth": "3/7/1910",
@@ -5637,7 +5637,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3770",
         "name": "Heiman, Wanda Vera",
         "dateOfBirth": "1898-07-07",
@@ -5734,7 +5734,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3459",
         "name": "Hirschen, Haendel",
         "dateOfBirth": "1882-11-29",
@@ -5831,7 +5831,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4151",
         "name": "Jacoby, Paolo",
         "dateOfBirth": "1869-02-23",
@@ -5928,7 +5928,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4316",
         "name": "Lascar, Italia",
         "dateOfBirth": "1883-07-28",
@@ -6025,7 +6025,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4632",
         "name": "Levi, Giuseppe",
         "dateOfBirth": "9/10/1904",
@@ -6122,7 +6122,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5725",
         "name": "Neuberger, Ugo",
         "dateOfBirth": "1884-04-14",
@@ -6219,7 +6219,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6447",
         "name": "Revere, Ines",
         "dateOfBirth": "4/2/1902",
@@ -6316,7 +6316,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6448",
         "name": "Revere, Olga",
         "dateOfBirth": "1897-03-30",
@@ -6413,7 +6413,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6583",
         "name": "Rossi, Sergio Pellegrino",
         "dateOfBirth": "1895-12-21",
@@ -6510,7 +6510,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6966",
         "name": "Schoenstein, Rosette",
         "dateOfBirth": "1/17/1904",
@@ -6607,7 +6607,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8146",
         "name": "Varon, Bohor Nahman",
         "dateOfBirth": "11/9/1902",
@@ -6704,7 +6704,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8150",
         "name": "Varon, Ida",
         "dateOfBirth": "8/28/1918",
@@ -6801,9 +6801,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8152",
-        "name": "Varon, Mois\u00c3\u0192\u00c2\u00a9",
+        "name": "Varon, Moisè",
         "dateOfBirth": "1881-03-02",
         "dateOfBirth_label": "mercoledì 2 marzo 1881",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Gelibolu",
@@ -6898,9 +6898,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8155",
-        "name": "Varon, Signur\u00c3\u0192\u00c2\u00b9",
+        "name": "Varon, Signurù",
         "dateOfBirth": "1/24/1914",
         "dateOfBirth_label": "sabato 24 gennaio 1914",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Gelibolu",
@@ -6995,7 +6995,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8274",
         "name": "Wolfstein, Margarethe",
         "dateOfBirth": "1885-03-01",
@@ -7092,7 +7092,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8294",
         "name": "Yohai, Rebecca",
         "dateOfBirth": "1882-04-08",
@@ -7189,7 +7189,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "6",
+        "convoyNumber": "6",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8391",
         "name": "Zimmermann, Giulia",
         "dateOfBirth": "1875-10-12",
@@ -7286,7 +7286,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2296",
         "name": "Di Veroli, Michele",
         "dateOfBirth": "1895-05-13",
@@ -7383,7 +7383,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4440",
         "name": "Loewy, Anna",
         "dateOfBirth": "1893-09-23",
@@ -7480,7 +7480,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/536",
         "name": "Ara Coen, Anna",
         "dateOfBirth": "1878-07-30",
@@ -7577,7 +7577,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1365",
         "name": "Cases, Ida",
         "dateOfBirth": "1877-01-28",
@@ -7674,7 +7674,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2334",
         "name": "Duegnas, Vittorio",
         "dateOfBirth": "9/12/1910",
@@ -7771,7 +7771,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2446",
         "name": "Enriquez, Isacco",
         "dateOfBirth": "5/9/1908",
@@ -7868,7 +7868,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2463",
         "name": "Esquenazi, Ester",
         "dateOfBirth": "1874-12-31",
@@ -7965,7 +7965,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2466",
         "name": "Esquenazi, Rebecca",
         "dateOfBirth": "1880-09-25",
@@ -8062,7 +8062,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2467",
         "name": "Esquenazi, Salomone",
         "dateOfBirth": "1879-02-14",
@@ -8159,7 +8159,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2504",
         "name": "Fano, Vittoria",
         "dateOfBirth": "7/24/1914",
@@ -8256,7 +8256,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3186",
         "name": "Gomez De Silva, Ubaldo",
         "dateOfBirth": "6/23/1900",
@@ -8353,7 +8353,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4261",
         "name": "Jupiter, Marco",
         "dateOfBirth": "1898-10-15",
@@ -8450,7 +8450,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4015",
         "name": "Kupferberg, Abraham",
         "dateOfBirth": "12/16/1925",
@@ -8547,7 +8547,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5997",
         "name": "Padoa, Olga",
         "dateOfBirth": "1869-11-09",
@@ -8644,7 +8644,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6383",
         "name": "Rabbeno, Rodolfo",
         "dateOfBirth": "1889-02-20",
@@ -8741,7 +8741,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7879",
         "name": "Treves, Mario Ezechiele",
         "dateOfBirth": "1898-04-06",
@@ -8838,7 +8838,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7946",
         "name": "Valabrega, Alberto",
         "dateOfBirth": "4/21/1915",
@@ -8935,7 +8935,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7947",
         "name": "Valabrega, Aldo",
         "dateOfBirth": "12/22/1900",
@@ -9032,7 +9032,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7948",
         "name": "Valabrega, Alma",
         "dateOfBirth": "1/19/1900",
@@ -9129,7 +9129,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8317",
         "name": "Zamorani, Arrigo",
         "dateOfBirth": "1890-07-23",
@@ -9226,7 +9226,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4488",
         "name": "Levi, Elide",
         "dateOfBirth": "1892-08-13",
@@ -9323,7 +9323,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4680",
         "name": "Levi, Luisa",
         "dateOfBirth": "11/10/1929",
@@ -9420,7 +9420,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "9",
+        "convoyNumber": "9",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4776",
         "name": "Levi, Silvana",
         "dateOfBirth": "4/10/1920",
@@ -9517,7 +9517,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4760",
         "name": "Levi, Samuele Enea",
         "dateOfBirth": "1883-10-29",
@@ -9614,7 +9614,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2937",
         "name": "Foa, Noemi",
         "dateOfBirth": "2/14/1908",
@@ -9711,7 +9711,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/656",
         "name": "Adler, [Nome ignoto]",
         "dateOfBirth": "4/23/1905",
@@ -9808,7 +9808,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/341",
         "name": "Adler, Anita",
         "dateOfBirth": "7/6/1913",
@@ -9905,7 +9905,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/367",
         "name": "Ancona, Vittoria",
         "dateOfBirth": "6/23/1923",
@@ -10002,7 +10002,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1685",
         "name": "Caminada, Arturo",
         "dateOfBirth": "2/12/1917",
@@ -10099,7 +10099,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1670",
         "name": "Cuzzeri, Eugenia",
         "dateOfBirth": "1880-09-09",
@@ -10196,7 +10196,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1868",
         "name": "De Benedetti, Amalia Perla",
         "dateOfBirth": "1874-02-09",
@@ -10293,7 +10293,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8187",
         "name": "Di Veroli, Ernesta",
         "dateOfBirth": "1862-02-14",
@@ -10390,7 +10390,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2406",
         "name": "Efrati, Costanza",
         "dateOfBirth": "4/12/1900",
@@ -10487,7 +10487,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2465",
         "name": "Esquenazi, Leone",
         "dateOfBirth": "1883-10-27",
@@ -10584,7 +10584,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3196",
         "name": "Gottsegen, Enrico",
         "dateOfBirth": "1873-10-04",
@@ -10681,7 +10681,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3234",
         "name": "Gruenwald, Francesco Oliviero",
         "dateOfBirth": "1883-02-18",
@@ -10690,7 +10690,7 @@ line_birth={
         "labelbirthPlace_label": "Vienna",
         "labelbirthPlace_lat": 48.20849,
         "labelbirthPlace_lng": 16.37208,
-        "indirizzo_residenza": "via E. No\u00c3\u0192\u00c2\u00a8 5",
+        "indirizzo_residenza": "via E. No\u00a8 5",
         "IRI_arrestPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
         "labelarrestPlace": "via Catalani",
         "labelarrestPlace_lat": 45.48605412,
@@ -10778,7 +10778,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4173",
         "name": "Jenna, Moise",
         "dateOfBirth": "1871-10-28",
@@ -10875,7 +10875,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4228",
         "name": "Jona, Rinaldo",
         "dateOfBirth": "10/25/1906",
@@ -10972,7 +10972,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4230",
         "name": "Jona, Rosa Bianca",
         "dateOfBirth": "9/5/1903",
@@ -11069,7 +11069,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4287",
         "name": "Landau, Lea Elisa",
         "dateOfBirth": "1886-03-19",
@@ -11166,9 +11166,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5436",
-        "name": "Milul, Lina Fortun\u00c3\u0192\u00c2\u00a9",
+        "name": "Milul, Lina Fortunè",
         "dateOfBirth": "1886-09-13",
         "dateOfBirth_label": "lunedì 13 settembre 1886",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Livorno",
@@ -11263,7 +11263,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7321",
         "name": "Sinigaglia, Italo",
         "dateOfBirth": "1866-03-15",
@@ -11360,7 +11360,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8313",
         "name": "Zamatto, Guido",
         "dateOfBirth": "3/27/1916",
@@ -11457,7 +11457,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "10",
+        "convoyNumber": "10",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8328",
         "name": "Zarfati, Cesare",
         "dateOfBirth": "8/2/1918",
@@ -11554,7 +11554,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1845",
         "name": "Dana, Isacco",
         "dateOfBirth": "3/5/1903",
@@ -11651,7 +11651,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6885",
         "name": "Saltiel, Rachele",
         "dateOfBirth": "1899-09-15",
@@ -11748,7 +11748,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/662",
         "name": "Asseo, Rachele",
         "dateOfBirth": "1898-09-06",
@@ -11845,7 +11845,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/632",
         "name": "Attias, Sara",
         "dateOfBirth": "3/20/1905",
@@ -11942,7 +11942,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4009",
         "name": "Kuh, Meta Marie",
         "dateOfBirth": "8/12/1902",
@@ -12039,7 +12039,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5075",
         "name": "Mankevitz, Anna",
         "dateOfBirth": "10/1/1912",
@@ -12136,7 +12136,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5076",
         "name": "Mankevitz, Ernst",
         "dateOfBirth": "1/19/1941",
@@ -12233,7 +12233,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5143",
         "name": "Mayer, Karoline",
         "dateOfBirth": "1869-07-23",
@@ -12330,7 +12330,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5516",
         "name": "Molho, Dario",
         "dateOfBirth": "2/15/1928",
@@ -12427,7 +12427,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5570",
         "name": "Mosberg, Margit Sofia",
         "dateOfBirth": "10/30/1935",
@@ -12524,7 +12524,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8147",
         "name": "Varon, Dora",
         "dateOfBirth": "3/24/1935",
@@ -12621,7 +12621,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8148",
         "name": "Varon, Hasdai",
         "dateOfBirth": "10/3/1931",
@@ -12718,7 +12718,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8151",
         "name": "Varon, Leone",
         "dateOfBirth": "2/14/1942",
@@ -12815,7 +12815,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "13",
+        "convoyNumber": "13",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8013",
         "name": "Winter, Alfredo",
         "dateOfBirth": "3/30/1935",
@@ -12912,7 +12912,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2501",
         "name": "Fano, Renato",
         "dateOfBirth": "1887-10-17",
@@ -13009,7 +13009,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2550",
         "name": "Fiano, Giuseppe",
         "dateOfBirth": "1886-06-23",
@@ -13106,7 +13106,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/974",
         "name": "Bassi, Alberto",
         "dateOfBirth": "1893-10-02",
@@ -13203,7 +13203,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2571",
         "name": "Finzi, Edgardo",
         "dateOfBirth": "1889-01-27",
@@ -13300,7 +13300,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4134",
         "name": "Issel, Arturo",
         "dateOfBirth": "1880-09-22",
@@ -13397,7 +13397,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4968",
         "name": "Landmans, Giulio",
         "dateOfBirth": "1886-03-01",
@@ -13494,7 +13494,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5855",
         "name": "Ottolenghi, Giulio",
         "dateOfBirth": "1893-07-23",
@@ -13591,7 +13591,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7283",
         "name": "Sezzi, Riccardo",
         "dateOfBirth": "12/28/1907",
@@ -13688,7 +13688,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7931",
         "name": "Uggeri, Bruna Teresa",
         "dateOfBirth": "5/21/1940",
@@ -13785,7 +13785,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7949",
         "name": "Valabrega, Anselmo",
         "dateOfBirth": "5/2/1902",
@@ -13882,7 +13882,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8225",
         "name": "Valech, Alba",
         "dateOfBirth": "5/9/1916",
@@ -13979,7 +13979,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8037",
         "name": "Vitta, Benvenuto Mario",
         "dateOfBirth": "6/3/1906",
@@ -14076,7 +14076,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1241",
         "name": "Cammeo, Lorenzo",
         "dateOfBirth": "4/5/1920",
@@ -14173,7 +14173,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2378",
         "name": "Di Segni, Irene",
         "dateOfBirth": "1894-10-25",
@@ -14270,7 +14270,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2210",
         "name": "Di Segni, Margherita",
         "dateOfBirth": "1884-11-10",
@@ -14367,7 +14367,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4625",
         "name": "Levi, Giorgio",
         "dateOfBirth": "1898-09-28",
@@ -14464,7 +14464,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5025",
         "name": "Loebl, Gertrude",
         "dateOfBirth": "8/13/1913",
@@ -14561,7 +14561,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5376",
         "name": "Michelstaedter, Ada",
         "dateOfBirth": "1890-01-05",
@@ -14658,7 +14658,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5578",
         "name": "Moscati, Bruno",
         "dateOfBirth": "1893-02-27",
@@ -14755,7 +14755,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7205",
         "name": "Servi, Aldo",
         "dateOfBirth": "1893-07-29",
@@ -14852,7 +14852,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7320",
         "name": "Sinigaglia, Attilio",
         "dateOfBirth": "1893-04-17",
@@ -14949,7 +14949,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7696",
         "name": "Springer, Elisa",
         "dateOfBirth": "2/12/1918",
@@ -15046,7 +15046,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8041",
         "name": "Vitta, Ernesto",
         "dateOfBirth": "1872-07-05",
@@ -15143,7 +15143,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8240",
         "name": "Voghera, Enrico",
         "dateOfBirth": "4/11/1905",
@@ -15240,7 +15240,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8316",
         "name": "Zamorani, Annamaria",
         "dateOfBirth": "1897-10-16",
@@ -15337,7 +15337,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5872",
         "name": "Naim, Vittorio",
         "dateOfBirth": "2/20/1921",
@@ -15434,7 +15434,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6656",
         "name": "Recanati, Rebecca",
         "dateOfBirth": "3/8/1913",
@@ -15531,7 +15531,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1666",
         "name": "Curiel, Livia",
         "dateOfBirth": "7/11/1915",
@@ -15628,7 +15628,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2262",
         "name": "Di Veroli, Colomba",
         "dateOfBirth": "10/17/1921",
@@ -15725,7 +15725,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5053",
         "name": "Maissa, Rachele",
         "dateOfBirth": "1892-12-15",
@@ -15822,7 +15822,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5740",
         "name": "Norsa, Diana",
         "dateOfBirth": "1866-07-02",
@@ -15919,7 +15919,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5741",
         "name": "Norsa, Gaby",
         "dateOfBirth": "1887-12-16",
@@ -16016,9 +16016,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6401",
-        "name": "Rav\u00c3\u0192\u00c2\u00a0, Alice",
+        "name": "Ravà, Alice",
         "dateOfBirth": "1890-01-13",
         "dateOfBirth_label": "lunedì 13 gennaio 1890",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Venezia",
@@ -16113,7 +16113,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6655",
         "name": "Recanati, Flora",
         "dateOfBirth": "7/14/1915",
@@ -16210,7 +16210,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7558",
         "name": "Spizzichino, Regina",
         "dateOfBirth": "1896-03-07",
@@ -16307,7 +16307,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/543",
         "name": "Arditi, Clara",
         "dateOfBirth": "2/6/1915",
@@ -16404,7 +16404,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1474",
         "name": "Coen, Emilia",
         "dateOfBirth": "1882-02-20",
@@ -16501,7 +16501,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1569",
         "name": "Cohen, Manlio Emanuele",
         "dateOfBirth": "10/10/1905",
@@ -16598,7 +16598,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3172",
         "name": "Goldstaub, Ernesta Vittorina",
         "dateOfBirth": "9/25/1903",
@@ -16695,7 +16695,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3986",
         "name": "Krebs, Martino",
         "dateOfBirth": "1899-10-10",
@@ -16792,7 +16792,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4549",
         "name": "Luzzatto, Mario",
         "dateOfBirth": "9/11/1912",
@@ -16889,7 +16889,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7463",
         "name": "Sorias, Giuseppe",
         "dateOfBirth": "11/2/1941",
@@ -16986,7 +16986,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7993",
         "name": "Weiss, Maria Teresa",
         "dateOfBirth": "3/15/1903",
@@ -17083,7 +17083,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "14",
+        "convoyNumber": "14",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8385",
         "name": "Zerkowsky, Eric",
         "dateOfBirth": "1890-06-29",
@@ -17180,7 +17180,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5028",
         "name": "Luzzatto, Maurizio",
         "dateOfBirth": "9/30/1900",
@@ -17277,7 +17277,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/919",
         "name": "Blum, Enrichetta",
         "dateOfBirth": "12/27/1911",
@@ -17374,7 +17374,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5701",
         "name": "Nahum, Rebecca",
         "dateOfBirth": "1888-04-17",
@@ -17471,7 +17471,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/706",
         "name": "Basevi, Emma",
         "dateOfBirth": "1873-02-27",
@@ -17568,7 +17568,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/707",
         "name": "Basevi, Ida",
         "dateOfBirth": "1878-09-05",
@@ -17665,7 +17665,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/711",
         "name": "Basevi, Vittorio",
         "dateOfBirth": "1882-04-02",
@@ -17762,7 +17762,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1010",
         "name": "Bindefeld, Mayer",
         "dateOfBirth": "1899-03-05",
@@ -17859,7 +17859,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1422",
         "name": "Cittone, Vitale",
         "dateOfBirth": "5/4/1909",
@@ -17956,7 +17956,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2569",
         "name": "Finzi, Edgardo",
         "dateOfBirth": "1897-06-22",
@@ -18053,7 +18053,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3245",
         "name": "Gutmann, Magda",
         "dateOfBirth": "1887-07-20",
@@ -18150,7 +18150,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4149",
         "name": "Jacchia, Lidia",
         "dateOfBirth": "1887-10-11",
@@ -18247,7 +18247,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3932",
         "name": "Klein Cominotti, Carlo",
         "dateOfBirth": "5/8/1920",
@@ -18344,7 +18344,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3933",
         "name": "Klein Cominotti, Edoardo",
         "dateOfBirth": "1885-06-05",
@@ -18441,7 +18441,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5637",
         "name": "Murgi, Gino",
         "dateOfBirth": "1886-06-09",
@@ -18538,7 +18538,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5742",
         "name": "Norsa, Germana",
         "dateOfBirth": "2/20/1914",
@@ -18635,7 +18635,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6292",
         "name": "Pontremoli, Daniele",
         "dateOfBirth": "3/13/1912",
@@ -18732,7 +18732,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6844",
         "name": "Saglia, Luisa",
         "dateOfBirth": "1893-01-10",
@@ -18829,7 +18829,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7647",
         "name": "Saralvo, Corrado",
         "dateOfBirth": "1898-04-02",
@@ -18926,7 +18926,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7114",
         "name": "Segre, Elena",
         "dateOfBirth": "10/26/1904",
@@ -19023,9 +19023,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7464",
-        "name": "Sorias, Mois\u00c3\u0192\u00c2\u00a9",
+        "name": "Sorias, Moisè",
         "dateOfBirth": "6/9/1909",
         "dateOfBirth_label": "mercoledì 9 giugno 1909",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Larnaca",
@@ -19120,7 +19120,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "18",
+        "convoyNumber": "18",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7575",
         "name": "Steinitz, Regina",
         "dateOfBirth": "1880-02-21",
@@ -19217,7 +19217,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "11",
+        "convoyNumber": "11",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2357",
         "name": "Deligtisch, Ray",
         "dateOfBirth": "1898-08-13",
@@ -19314,9 +19314,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "11",
+        "convoyNumber": "11",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2778",
-        "name": "Fo\u00c3\u0192\u00c2\u00a0, Ugo Abramo Sansone",
+        "name": "Foà, Ugo Abramo Sansone",
         "dateOfBirth": "1886-02-28",
         "dateOfBirth_label": "domenica 28 febbraio 1886",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Lucca",
@@ -19411,7 +19411,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/365",
         "name": "Anavi, Rebecca",
         "dateOfBirth": "1889-07-30",
@@ -19508,7 +19508,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/661",
         "name": "Assael, Regina",
         "dateOfBirth": "1872-06-14",
@@ -19605,7 +19605,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8087",
         "name": "Avigdor, Isacco",
         "dateOfBirth": "1892-09-27",
@@ -19702,7 +19702,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8088",
         "name": "Avigdor, Rachele",
         "dateOfBirth": "1873-05-24",
@@ -19799,7 +19799,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/666",
         "name": "Avigdor, Rachele",
         "dateOfBirth": "1878-07-05",
@@ -19896,7 +19896,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1015",
         "name": "Boton, Malcunna",
         "dateOfBirth": "7/15/1903",
@@ -19993,9 +19993,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2340",
-        "name": "Dana, Mos\u00c3\u0192\u00c2\u00a9",
+        "name": "Dana, Mosè",
         "dateOfBirth": "2/5/1931",
         "dateOfBirth_label": "giovedì 5 febbraio 1931",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Milano",
@@ -20090,7 +20090,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2343",
         "name": "Dana, Stella",
         "dateOfBirth": "11/28/1937",
@@ -20187,7 +20187,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2926",
         "name": "Feiwel, Leib Wolf Leone",
         "dateOfBirth": "1899-12-17",
@@ -20284,7 +20284,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/3256",
         "name": "Galapo, Rosa",
         "dateOfBirth": "3/6/1915",
@@ -20381,9 +20381,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4252",
-        "name": "Jaff\u00c3\u0192\u00c2\u00a9, Isaac Elia",
+        "name": "Jaffè, Isaac Elia",
         "dateOfBirth": "1896-10-18",
         "dateOfBirth_label": "domenica 18 ottobre 1896",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Canakkale",
@@ -20478,7 +20478,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4255",
         "name": "Jessoula, Clara",
         "dateOfBirth": "3/15/1915",
@@ -20575,7 +20575,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8232",
         "name": "Ventura, Lina",
         "dateOfBirth": "9/23/1902",
@@ -20672,7 +20672,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1824",
         "name": "Crespin, Abramo",
         "dateOfBirth": "1876-11-02",
@@ -20769,7 +20769,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1825",
         "name": "Crespin, Judith",
         "dateOfBirth": "9/15/1913",
@@ -20866,7 +20866,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1826",
         "name": "Crespin, Vittoria",
         "dateOfBirth": "11/24/1914",
@@ -20963,7 +20963,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/344",
         "name": "Afnaim, Matilde",
         "dateOfBirth": "4/29/1941",
@@ -21060,7 +21060,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/347",
         "name": "Afnaim, Vittoria",
         "dateOfBirth": "3/14/1933",
@@ -21157,7 +21157,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1716",
         "name": "Cohen, Caden",
         "dateOfBirth": "12/12/1927",
@@ -21254,7 +21254,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1728",
         "name": "Cohen, Roberto Samanto",
         "dateOfBirth": "3/17/1909",
@@ -21351,7 +21351,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2391",
         "name": "Doenias, Astrid",
         "dateOfBirth": "10/27/1932",
@@ -21448,7 +21448,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2392",
         "name": "Doenias, Baruch Alfredo",
         "dateOfBirth": "3/21/1904",
@@ -21545,7 +21545,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5013",
         "name": "Levi, Valentina",
         "dateOfBirth": "9/23/1910",
@@ -21642,9 +21642,9 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5663",
-        "name": "Menass\u00c3\u0192\u00c2\u00a9, Rosa",
+        "name": "Menassè, Rosa",
         "dateOfBirth": "1889-05-13",
         "dateOfBirth_label": "lunedì 13 maggio 1889",
         "IRI_birthPlace": "http://dati.cdec.it/lod/shoah/place/Istanbul",
@@ -21739,7 +21739,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "12",
+        "convoyNumber": "12",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8305",
         "name": "Yanni, Sara",
         "dateOfBirth": "1867-11-30",
@@ -21836,7 +21836,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1008",
         "name": "Bergmann, Theodor",
         "dateOfBirth": "1889-06-26",
@@ -21933,7 +21933,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5652",
         "name": "Mariani, Ida",
         "dateOfBirth": "3/19/1917",
@@ -22030,7 +22030,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5653",
         "name": "Mariani, Vittorina",
         "dateOfBirth": "5/17/1904",
@@ -22127,7 +22127,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5015",
         "name": "Levy, Adriana",
         "dateOfBirth": "12/10/1923",
@@ -22224,7 +22224,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5016",
         "name": "Levy, Beniamino",
         "dateOfBirth": "1879-08-20",
@@ -22321,7 +22321,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "17",
+        "convoyNumber": "17",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5901",
         "name": "Ovadia, Corinna",
         "dateOfBirth": "1896-11-10",
@@ -22418,7 +22418,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "20",
+        "convoyNumber": "20",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6839",
         "name": "Sadun, Lelio",
         "dateOfBirth": "1897-11-09",
@@ -22460,7 +22460,7 @@ line_birth={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u0192\u00c2\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -22515,7 +22515,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "20",
+        "convoyNumber": "20",
         "IRI": "http://dati.cdec.it/lod/shoah/person/5133",
         "name": "Matalon, Elia",
         "dateOfBirth": "1896-03-10",
@@ -22557,7 +22557,7 @@ line_birth={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u0192\u00c2\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -22612,7 +22612,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "20",
+        "convoyNumber": "20",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6624",
         "name": "Schoenberger, Giuseppe",
         "dateOfBirth": "3/3/1906",
@@ -22654,7 +22654,7 @@ line_birth={
         "convoyNumber_1": "20",
         "convoyDepartureDate": "14/12/1944",
         "convoyDepartureDate_label": "giovedì 14 dicembre 1944",
-        "labelToNaziCamp": "Flossenb\u00c3\u0192\u00c2\u00bcrg",
+        "labelToNaziCamp": "Flossenbürg",
         "labelToNaziCamp_color": "grey",
         "labelToNaziCamp_lat": "49.73699389",
         "labelToNaziCamp_lng": "12.35458917",
@@ -22709,7 +22709,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "16",
+        "convoyNumber": "16",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8180",
         "name": "Ventense, Lieselotte",
         "dateOfBirth": "12/16/1911",
@@ -22806,7 +22806,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "16",
+        "convoyNumber": "16",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2931",
         "name": "Finzi, Fausta",
         "dateOfBirth": "6/11/1920",
@@ -22903,7 +22903,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "16",
+        "convoyNumber": "16",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7698",
         "name": "Stahl, Olga",
         "dateOfBirth": "3/18/1905",
@@ -23000,7 +23000,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "16",
+        "convoyNumber": "16",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1016",
         "name": "Bottoni, Maria",
         "dateOfBirth": "12/14/1901",
@@ -23097,7 +23097,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "16",
+        "convoyNumber": "16",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7640",
         "name": "Sacerdoti, Valeria",
         "dateOfBirth": "1/31/1900",
@@ -23194,7 +23194,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1881",
         "name": "De Benedetti, Lucia",
         "dateOfBirth": "4/10/1911",
@@ -23291,7 +23291,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2564",
         "name": "Finzi, Anna Maria",
         "dateOfBirth": "2/5/1917",
@@ -23388,7 +23388,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/2572",
         "name": "Finzi, Elena",
         "dateOfBirth": "1897-03-24",
@@ -23485,7 +23485,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/4610",
         "name": "Levi, Donna",
         "dateOfBirth": "1881-05-16",
@@ -23582,7 +23582,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/6841",
         "name": "Sadun, Paolo",
         "dateOfBirth": "2/1/1935",
@@ -23679,7 +23679,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7999",
         "name": "Weissenstein, Margherita",
         "dateOfBirth": "1893-11-05",
@@ -23776,7 +23776,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1699",
         "name": "Cittone, Elia",
         "dateOfBirth": "3/25/1942",
@@ -23873,7 +23873,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/1700",
         "name": "Cittone, Gioia Giulietta",
         "dateOfBirth": "4/26/1937",
@@ -23970,7 +23970,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/7359",
         "name": "Sinigaglia, Teresina",
         "dateOfBirth": "1886-11-24",
@@ -24067,7 +24067,7 @@ line_birth={
     {
       "type": "Feature",
       "properties": {
-        "\u00c3\u00af\u00c2\u00bb\u00c2\u00bfconvoyNumber": "19",
+        "convoyNumber": "19",
         "IRI": "http://dati.cdec.it/lod/shoah/person/8145",
         "name": "Varon, Allegrina",
         "dateOfBirth": "10/9/1914",
