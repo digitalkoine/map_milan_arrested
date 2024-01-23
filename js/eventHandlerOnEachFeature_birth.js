@@ -86,7 +86,7 @@ jsonLayer_birth_time.addTo(map);
 
 var popup_birth = new L.Popup();
 oms.addListener('click', function(marker) {
-    popup_birth.setContent('<p>'+'<strong>'+marker.feature.properties.name+'</strong>'+'<br>'+'Luogo di nascita: '+marker.feature.properties.labelbirthPlace_label+'<br>'+'Data di nascita: '+marker.feature.properties.dateOfBirth_label+'<br>'+'<a href='+marker.feature.properties.IRI+'>'+'Link'+'</p>');
+    popup_birth.setContent('<p>'+'<strong>'+marker.feature.properties.name+'</strong>'+'<br>'+'<strong>'+'Luogo di nascita: '+'</strong>'+marker.feature.properties.labelbirthPlace_label+'<br>'+'<strong>'+'Data di nascita: '+'</strong>'+marker.feature.properties.dateOfBirth_label+'<br>'+'<a href='+marker.feature.properties.IRI+' target="_blank">'+'Link'+'</p>');
     popup_birth.setLatLng(marker.getLatLng());
     map.openPopup(popup_birth);
 });
